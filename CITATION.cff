@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the project and the WHO PEN source document."
+title: "WHO PEN Clinical RAG"
+version: "7.0.0"
+date-released: 2026-10-04
+license: MIT
+repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"
+preferred-citation:
+  type: software
+  title: "WHO PEN Clinical RAG"
+  version: "7.0.0"
+  year: 2026

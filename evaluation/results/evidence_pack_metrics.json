@@ -1,0 +1,8 @@
+{
+  "dataset": "Gold-100 source-grounded development set",
+  "N": 100,
+  "ParentHit@1": 0.76,
+  "ParentHit@3": 0.92,
+  "ParentHit@5": 0.95,
+  "AnchorCoverage": 0.93
+}

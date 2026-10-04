@@ -1,0 +1,12 @@
+{
+  "dataset": "Gold-100 source-grounded development set",
+  "warning": "Not a pristine held-out set; used in development and label repair.",
+  "metrics": {
+    "Hit@1": 0.74,
+    "Hit@3": 0.94,
+    "Hit@5": 0.97,
+    "Hit@10": 0.97,
+    "MRR": 0.830333,
+    "nDCG@10": 0.857029
+  }
+}

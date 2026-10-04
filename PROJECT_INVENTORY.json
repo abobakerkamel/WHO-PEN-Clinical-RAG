@@ -1,0 +1,178 @@
+[
+  {
+    "path": ".env.example",
+    "bytes": 245
+  },
+  {
+    "path": ".github/workflows/ci.yml",
+    "bytes": 577
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 500
+  },
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 801
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 356
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "bytes": 321
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1090
+  },
+  {
+    "path": "Makefile",
+    "bytes": 191
+  },
+  {
+    "path": "README.md",
+    "bytes": 6113
+  },
+  {
+    "path": "README_AR.md",
+    "bytes": 1168
+  },
+  {
+    "path": "SECURITY.md",
+    "bytes": 541
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 829
+  },
+  {
+    "path": "app/README.md",
+    "bytes": 563
+  },
+  {
+    "path": "data/README.md",
+    "bytes": 389
+  },
+  {
+    "path": "data/source/.gitkeep",
+    "bytes": 0
+  },
+  {
+    "path": "docs/WHO_PEN_Production_Grade_Medical_RAG_Technical_Guide_AR.md",
+    "bytes": 84395
+  },
+  {
+    "path": "docs/WHO_PEN_Production_Grade_Medical_RAG_Technical_Guide_AR.pdf",
+    "bytes": 1332959
+  },
+  {
+    "path": "docs/architecture.md",
+    "bytes": 1719
+  },
+  {
+    "path": "docs/assets/README.md",
+    "bytes": 286
+  },
+  {
+    "path": "docs/deployment-roadmap.md",
+    "bytes": 1335
+  },
+  {
+    "path": "docs/evaluation.md",
+    "bytes": 1627
+  },
+  {
+    "path": "docs/troubleshooting.md",
+    "bytes": 2026
+  },
+  {
+    "path": "evaluation/README.md",
+    "bytes": 1040
+  },
+  {
+    "path": "evaluation/gold100/who_pen_gold100_questions.csv",
+    "bytes": 24136
+  },
+  {
+    "path": "evaluation/gold100/who_pen_gold100_source_grounded_draft.jsonl",
+    "bytes": 35207
+  },
+  {
+    "path": "evaluation/results/dev_retrieval_baseline.json",
+    "bytes": 284
+  },
+  {
+    "path": "evaluation/results/evidence_pack_metrics.json",
+    "bytes": 166
+  },
+  {
+    "path": "evaluation/scripts/Cell46B_WHO_PEN_Gold100.py",
+    "bytes": 41794
+  },
+  {
+    "path": "evaluation/scripts/Cell47B_WHO_PEN_Gold100_Eval.py",
+    "bytes": 4651
+  },
+  {
+    "path": "notebooks/WHO_PEN_Production_Clinical_RAG_v7_ProductionGUI.ipynb",
+    "bytes": 203780
+  },
+  {
+    "path": "pyproject.toml",
+    "bytes": 471
+  },
+  {
+    "path": "requirements-dev.txt",
+    "bytes": 40
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 430
+  },
+  {
+    "path": "scripts/prepare_source.py",
+    "bytes": 1425
+  },
+  {
+    "path": "scripts/secret_scan.py",
+    "bytes": 1352
+  },
+  {
+    "path": "scripts/validate_notebook.py",
+    "bytes": 1227
+  },
+  {
+    "path": "src/who_pen_rag/__init__.py",
+    "bytes": 89
+  },
+  {
+    "path": "src/who_pen_rag/config.py",
+    "bytes": 1136
+  },
+  {
+    "path": "src/who_pen_rag/metrics.py",
+    "bytes": 1341
+  },
+  {
+    "path": "src/who_pen_rag/release_gates.py",
+    "bytes": 2311
+  },
+  {
+    "path": "src/who_pen_rag/security.py",
+    "bytes": 778
+  },
+  {
+    "path": "tests/test_metrics.py",
+    "bytes": 429
+  },
+  {
+    "path": "tests/test_release_gates.py",
+    "bytes": 688
+  },
+  {
+    "path": "tests/test_security.py",
+    "bytes": 460
+  }
+]
